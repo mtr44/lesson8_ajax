@@ -13,8 +13,7 @@ Michael Ryan
 In this project we built an application that displays information about movies.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://mtr44.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. Learned how to build an application using an Application Programming Interface (API)
